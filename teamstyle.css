@@ -46,7 +46,7 @@ h3 {
   color: #555;
 }
 
-.button {
+.names {
   border: none;
   outline: 0;
   padding-top: 6px;
@@ -54,16 +54,9 @@ h3 {
   background-color: #f06292;
   text-align: center;
   font-size: 20px;
-  cursor: pointer;
   width: 100%;
   border-radius: 0 0 5px 5px;
-  transition: 0.3s;
   font-family: 'Ubuntu', sans-serif;
-}
-
-.button:hover {
-  background-color: #fff;
-  color: #f06292;
 }
 
 .intro {
